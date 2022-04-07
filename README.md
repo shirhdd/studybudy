@@ -1,6 +1,6 @@
 # studybudy
 
-# Audio-Spectrogram
+# We will use Audio-Spectrogram
 Generating sound spectrograms using short-time Fourier transform that can be used for purposes such as sound classification by machine learning algorithms.
 
 ## Background
